@@ -430,7 +430,7 @@ hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
+hash = "b4b85c1ce4fb4abf37f0927e2943b93b9effaec18625e9215b5cc29ebacdc60f"
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
@@ -1011,3 +1011,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "36c8373538735e2a0af5ceef21e89520f59f4968798a794ca5515d5a43d794b6"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "b4b85c1ce4fb4abf37f0927e2943b93b9effaec18625e9215b5cc29ebacdc60f"
