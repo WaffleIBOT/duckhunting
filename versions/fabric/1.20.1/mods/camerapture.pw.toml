@@ -1,0 +1,13 @@
+filename = 'Camerapture-1.6.2+mc1.20.1.jar'
+name = 'Camerapture'
+side = 'both'
+
+[download]
+hash = '97741e2f0130e3d889d9eff84256ae4e0f91a9e896cc17d5adc0d8fd584ee6facf8a25bab1871cc6eb617ba51c2a0ce574bdf0e22f8ccf62e20ff76fad755eb1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9dzLWnmZ/versions/DFPVBpg0/Camerapture-1.6.2%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = '9dzLWnmZ'
+version = 'DFPVBpg0'

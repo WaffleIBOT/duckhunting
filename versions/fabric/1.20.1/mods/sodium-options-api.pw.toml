@@ -1,0 +1,13 @@
+filename = 'sodiumoptionsapi-fabric-1.0.2-1.20.1.jar'
+name = 'Sodium Options API'
+side = 'client'
+
+[download]
+hash = '65f2bd855128b6b1cc65da6ea137d50e785ac9c66503533f0dccf895a0201022982bac94391772d16e06ef938915582ac361c8eb679efba031297e6388f23aba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Es5v4eyq/versions/p3k6wqkd/sodiumoptionsapi-fabric-1.0.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Es5v4eyq'
+version = 'p3k6wqkd'

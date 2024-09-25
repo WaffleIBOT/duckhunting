@@ -1,0 +1,13 @@
+filename = 'WilderWild-2.4.6-mc1.20.1.jar'
+name = 'Wilder Wild'
+side = 'both'
+
+[download]
+hash = '9841192d4e9366c9d15bfef8708cd81367895d16258cf7393783cac1af4cd4a90333eab088e3962e97be446cff05da5ef01c921a36314bdbe84f73fd7f6e678f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AtHRJSUW/versions/P0MAa5Ji/WilderWild-2.4.6-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'AtHRJSUW'
+version = 'P0MAa5Ji'

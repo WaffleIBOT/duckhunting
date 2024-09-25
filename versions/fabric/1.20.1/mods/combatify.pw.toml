@@ -1,0 +1,13 @@
+filename = 'Combatify 1.20 1.1.8.3.jar'
+name = 'Combatify'
+side = 'both'
+
+[download]
+hash = '4520927a213db5e8b459c8556f2a4f2a6e844651ab142c3cfcf4b016110440d2c9da1886a925d6e7d202375bb5813c5989220eeb4d7aabc6ebafec75199f0851'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kRYhslBa/versions/mcCCgtad/Combatify 1.20 1.1.8.3.jar'
+
+[update.modrinth]
+mod-id = 'kRYhslBa'
+version = 'mcCCgtad'

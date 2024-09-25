@@ -1,0 +1,13 @@
+filename = 'earth2java-fabric-1.10.1+1.20.1.jar'
+name = 'Earth2Java'
+side = 'both'
+
+[download]
+hash = 'd3371d7b06cf87cd075af3d6ded7bc924530209aa02abeb3082ea68c8661a5fb43cef85bc43cd8f62ab222858b8d1ef9032e84529400efe178a0897d2498e258'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/D2Q91keW/versions/S6BrlJFn/earth2java-fabric-1.10.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'D2Q91keW'
+version = 'S6BrlJFn'
