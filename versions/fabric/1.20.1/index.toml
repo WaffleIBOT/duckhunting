@@ -958,11 +958,6 @@ hash = "3791d92e4baaaadf4ad0563fc0a4bed5841a40e43bd29c82c97d7acae6a88e54"
 metafile = true
 
 [[files]]
-file = "mods/treechop.pw.toml"
-hash = "b9e884184171a04b7c7b575dc3f7c8fdb4ce66d13bdaed0c696b833e1780e54a"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "440d296d0164e808975ba8827b75c372a1ce5993d90f6bea68ed4364a070e6d9"
 metafile = true
