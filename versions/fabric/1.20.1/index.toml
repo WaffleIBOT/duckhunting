@@ -703,6 +703,11 @@ hash = "7e8542d8e2b73eba11fee963dde05903d7b9d333d3b449ae462e3049e2e3c090"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "639ba4cbb9f10ee7b522f594b0dd4623a1e9ef059dbf21f6c08a1823d691139d"
 metafile = true
