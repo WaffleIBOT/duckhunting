@@ -430,7 +430,7 @@ hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b4b85c1ce4fb4abf37f0927e2943b93b9effaec18625e9215b5cc29ebacdc60f"
+hash = "65c0e507ee8ec186a0ca711aae7a1d3dd2dbd7f6a45c8bb6ae039c88fe9cd33f"
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
@@ -823,6 +823,11 @@ hash = "91c6b80984e4cf5b3cb709b926dfcbf180818d24b424a397c8782cfb897bb1f2"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "844a99b3d685f506f10779e9b99a18f3d342c7dd5e6175ec173bdaefd6be2611"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "9ef2289c575de25bf0a73972e41380792975798971b1dd2d9128f2f16005ca02"
 metafile = true
@@ -1014,4 +1019,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b4b85c1ce4fb4abf37f0927e2943b93b9effaec18625e9215b5cc29ebacdc60f"
+hash = "65c0e507ee8ec186a0ca711aae7a1d3dd2dbd7f6a45c8bb6ae039c88fe9cd33f"
