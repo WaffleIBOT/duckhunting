@@ -813,6 +813,11 @@ hash = "c2b2d807ec5435cdd7a596e6a9975e5f17e29ed2db65fd51ad7d612d6f543a49"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals-decorations.pw.toml"
+hash = "0ef2c1636618d9d6e0d0d8f15e267490a10e63591abd189ec47305e9712f4778"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "e5129aae571a033aecf3bff487a0be3023b22b1b4c488b3d8d2937f290fa8be8"
 metafile = true
@@ -965,6 +970,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "3791d92e4baaaadf4ad0563fc0a4bed5841a40e43bd29c82c97d7acae6a88e54"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "27e7e48b7af508ecf27f389f37c6ab60e72a947f476d5e427927a6de70442de2"
 metafile = true
 
 [[files]]
