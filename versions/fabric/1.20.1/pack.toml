@@ -1,12 +1,12 @@
 name = "SuckAdrenaline!"
 author = "WaffleIBOT"
-version = "1.0.6"
+version = "1.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "554b599e1619be3d6bf9dc49d2e35f02d1dec3b90b8fd618067c7bb229e41791"
+hash = "34f2033ba793a47be32b4d4585ce5e09ba8190976bfdbf8655f7e644e78f3d5c"
 
 [versions]
 fabric = "0.16.5"

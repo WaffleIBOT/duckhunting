@@ -573,11 +573,6 @@ hash = "5a45540d2a60b901beea1ea4791a370b6059fe60146712a133be6abbda76b5e5"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "5e41a432a5f998c66a0b10b24df169512da920ecd1cefd13124ef0e0e763257a"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "7196cb6b80a65aa47ee0f300adf05fdffc11db1c83b520dbd854b81cc45538cf"
 metafile = true
@@ -649,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
-hash = "06aa9fd2d85844c1334828668b49fa4d4d6418b1ef1362130d7e395836d89910"
+hash = "2a323b56ae9593d1e0c332226db2a334efa6d2550faeebdd0442d420fcd081d5"
 metafile = true
 
 [[files]]
@@ -659,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "41d7545e4fbdf34b5118382106281816af87d3fb3f7b12ac21303c5c13b8317c"
+hash = "bf85dfb8fd62da71694b9f96c76eddc80b8b2e555b4d7a366b884160510e30b9"
 metafile = true
 
 [[files]]
@@ -794,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "19dcdb36ffdd93e843291a3a4789b197abb6ad5ea24c7b2124c7b960d80e288c"
+hash = "18f0f608c23f3dcaa9dfc79534bcfba4ef09087664cafde4c2efd2ddee3ab165"
 metafile = true
 
 [[files]]
@@ -869,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "6d05fad7952e30955a8529cdbf2ecadba96d0fd14e73d2c598ea340062f4b619"
+hash = "9610250f9ebd84697852011b57e21c3200a118738f5052647f00e24bded8a5c6"
 metafile = true
 
 [[files]]
